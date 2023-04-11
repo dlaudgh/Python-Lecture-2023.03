@@ -1,4 +1,4 @@
-# Python-Lecture-2023.03
+# Python-Lecture (2023.03)
 
 ### 파이썬 강좌
 
